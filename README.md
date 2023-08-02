@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @kmatusze
 - 👀 I’m interested in photography, pizza making, cityboots, LOVE FarmRio, crossfit and repurposing code.
-- 🌱 I’m currently learning FullStack MERN & DevOps
+- 🌱 I’m currently learning FullStack MERN & DevOps @ MIT
 - 📫 I can be reached at karamatuszewski19@gmail.com 
 
 <!---
